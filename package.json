@@ -16,7 +16,7 @@
         "graphql": "^14.0.2",
         "isomorphic-unfetch": "^3.0.0",
         "marked": "^0.6.1",
-        "next": "^8.0.3",
+        "next": "^9.3.2",
         "node-sass": "^4.11.0",
         "now": "^14.0.2",
         "prop-types": "^15.7.2",
